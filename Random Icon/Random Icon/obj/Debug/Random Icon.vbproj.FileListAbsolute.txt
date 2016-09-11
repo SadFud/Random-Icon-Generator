@@ -1,0 +1,11 @@
+c:\users\david\documents\visual studio 2015\Projects\Random Icon\Random Icon\obj\Debug\Random Icon.vbprojResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2015\Projects\Random Icon\Random Icon\obj\Debug\Random_Icon.Form1.resources
+c:\users\david\documents\visual studio 2015\Projects\Random Icon\Random Icon\obj\Debug\Random_Icon.Resources.resources
+c:\users\david\documents\visual studio 2015\Projects\Random Icon\Random Icon\obj\Debug\Random Icon.vbproj.GenerateResource.Cache
+C:\Users\DAVID\documents\visual studio 2015\Projects\Random Icon\Random Icon\bin\Debug\Icono aleatorio.exe.config
+C:\Users\DAVID\documents\visual studio 2015\Projects\Random Icon\Random Icon\bin\Debug\Icono aleatorio.exe
+C:\Users\DAVID\documents\visual studio 2015\Projects\Random Icon\Random Icon\bin\Debug\Icono aleatorio.pdb
+C:\Users\DAVID\documents\visual studio 2015\Projects\Random Icon\Random Icon\bin\Debug\Icono aleatorio.xml
+C:\Users\DAVID\documents\visual studio 2015\Projects\Random Icon\Random Icon\obj\Debug\Icono aleatorio.exe
+C:\Users\DAVID\documents\visual studio 2015\Projects\Random Icon\Random Icon\obj\Debug\Icono aleatorio.xml
+C:\Users\DAVID\documents\visual studio 2015\Projects\Random Icon\Random Icon\obj\Debug\Icono aleatorio.pdb
